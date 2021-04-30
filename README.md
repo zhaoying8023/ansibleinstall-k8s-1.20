@@ -17,8 +17,8 @@
 
 下载准备好软件包（包含所有涉及文件和镜像，比较大），解压到/root目录：
 
-云盘链接：https://pan.baidu.com/s/1uCLylsj1-W2HigS_Tn9b5g 
-提取码：bicc 
+云盘链接：https://pan.baidu.com/s/1KtskBOndwtzG_XNahbZmrg
+提取码：hgwh 
 ```
 # tar zxf binary_pkg.tar.gz
 ```
